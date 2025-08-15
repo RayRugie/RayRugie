@@ -1,5 +1,5 @@
 <!-- Custom Banner -->
-![GitHub Banner](https://res.cloudinary.com/dcmvrcdc8/image/upload/v1755238304/omorugie_kevqob.jpg)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7F7&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Omorugie+Oyibotha;Frontend+Engineer+%26+Part-time+Full+Stack;React+%7C+Next.js+%7C+TypeScript;TailwindCSS+%7C+Firebase+%7C+Django)](https://git.io/typing-svg)
 
