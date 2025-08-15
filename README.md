@@ -10,7 +10,7 @@ My main focus is crafting high-quality frontends with **React, TypeScript, Next.
 
 ---
 
-### 🚀 What I recently On
+### 🚀 What I recently worked On
 - **Conference Ticket Generator** with Cloudinary uploads, IndexedDB persistence, and pixel-perfect Figma implementation.
 - **AI-powered Text Processing App** using Vite, React (TSX), and Chrome’s AI APIs for summarization, translation, and language detection.
 - A **dark-themed Home Dashboard** in Tailwind CSS with responsive layouts.
