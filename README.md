@@ -1,4 +1,9 @@
-## Hi there 👋 I'm Omorugie Oyibotha
+<!-- Custom Banner -->
+![GitHub Banner](https://res.cloudinary.com/dcmvrcdc8/image/upload/v1755238304/omorugie_kevqob.jpg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7F7&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Omorugie+Oyibotha;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;TailwindCSS+%7C+Firebase+%7C+Django)](https://git.io/typing-svg)
+
+---
 
 I'm a **Full Stack Developer** passionate about building accessible, performant, and visually stunning web and mobile experiences.  
 I specialize in **React, TypeScript, Next.js, Tailwind CSS, Firebase, and Django** — but I also explore tools like Flutter, Riverpod, and Chart.js when a project calls for it.  
@@ -65,3 +70,8 @@ I specialize in **React, TypeScript, Next.js, Tailwind CSS, Firebase, and Django
 
 ### ⚡ Fun Fact
 I’ve built projects ranging from oxygen delivery platforms to car rental systems — and I once made a gym website where the API key was on the frontend (don’t worry, I’ve since learned my lesson 😅).
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RayRugie&label=Profile%20views&color=0e75b6&style=flat)
